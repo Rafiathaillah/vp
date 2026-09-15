@@ -1,4 +1,4 @@
 public static void main(String[] args) {
-    System.out.println("Halo Dunia!");
+    System.out.println("Halo bang!");
     System.out.println("Halo!");
 }
